@@ -11,6 +11,7 @@ The PS5 NOR Editor is designed to help users safely manipulate their console's N
 ---
 
 ## Features
+![image](https://github.com/user-attachments/assets/7d805b70-6fa2-44ec-842f-44484e9298e3)
 
 * **Browse & Select:** Easily select your original PS5 NOR dump file.
 * **Settings Adjustment:** Prepare your NOR dump by adjusting necessary settings within the application.
