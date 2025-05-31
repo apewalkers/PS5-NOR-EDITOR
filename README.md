@@ -86,5 +86,7 @@ Thank you for your support!
 
 Credits: 
 Map of offsets taken from PSdevwiki & PS5-Wee-Tools
-https://www.psdevwiki.com/ps5/Non_Volatile_Storage
-https://github.com/andy-man/ps5-wee-tools
+
+**https://www.psdevwiki.com/ps5/Non_Volatile_Storage**
+
+**https://github.com/andy-man/ps5-wee-tools**
