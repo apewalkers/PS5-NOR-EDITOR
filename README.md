@@ -83,10 +83,11 @@ You can also contribute to the project on GitHub:
 * **GitHub:** [https://github.com/apewalkers/](https://github.com/apewalkers/)
 
 Thank you for your support!
+---
 
-Credits: 
-Map of offsets taken from PSdevwiki & PS5-Wee-Tools
+## Credits: 
+Map of offsets
 
-**https://www.psdevwiki.com/ps5/Non_Volatile_Storage**
+* PSdevwiki **https://www.psdevwiki.com/ps5/Non_Volatile_Storage**
 
-**https://github.com/andy-man/ps5-wee-tools**
+* PS5-Wee-Tools **https://github.com/andy-man/ps5-wee-tools**
